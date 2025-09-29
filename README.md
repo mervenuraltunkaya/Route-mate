@@ -33,8 +33,11 @@ getirir.
 
 ## 📸 Ekran Görüntüleri
 
-![Anasayfa](screenshots/home.png)\
-![Rota Planlama](screenshots/route.png)
+![Açılış](screenshots/splash.png)\
+![Tanıtım](screenshots/onboarding.png)\
+![Üyelik](screenshots/uyelik.png)\
+![Rota Planlama](screenshots/rota.png)\
+![Geçmiş-Favori](screenshots/kayitli.png)
 
 ## 🎯 Proje Amacı
 
